@@ -4,30 +4,32 @@ Word & Character Counter Online.
 
 This is a free Word & Character Counter web tool built with Next.js and Tailwind CSS. It helps writers, students, bloggers, and professionals quickly analyze text for word count, character count, sentences, and paragraphs — all instantly in the browser.
 
-Features
+# Features
 
-Count words and characters (with and without spaces)
+1.Count words and characters (with and without spaces)
 
-Count sentences and paragraphs
+2. Count sentences and paragraphs
 
-Copy results to clipboard with one click
+3. Copy results to clipboard with one click
 
-Clear text easily
+4. Clear text easily
 
-Mobile-friendly and fast
+5. Mobile-friendly and fast
 
 No backend required — fully frontend
 
-Why This Tool Is Useful
+# Why This Tool Is Useful
 
-Students & writers: Quickly check essay or assignment length
+1. Students & writers: Quickly check essay or assignment length
 
-Bloggers & content creators: Ensure proper word count for SEO or content guidelines
+2. Bloggers & content creators: Ensure proper word count for SEO or content guidelines
 
-Professionals: Check reports, emails, or resumes for word/character limits
+3. Professionals: Check reports, emails, or resumes for word/character limits
 
-Social media users: Ensure captions or posts fit limits
+4. Social media users: Ensure captions or posts fit limits
 
-Tech Stack
+# Tech Stack
 
-Next.js
+- Next.js
+- TailWindCss
+
