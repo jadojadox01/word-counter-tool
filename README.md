@@ -1,35 +1,36 @@
-# word-counter-tool
-A simple, fast, and mobile-friendly online tool to count words, characters, sentences, and paragraphs in any text. Built with Next.js and Tailwind CSS, 100% frontend and no backend required.
-Word & Character Counter Online.
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-This is a free Word & Character Counter web tool built with Next.js and Tailwind CSS. It helps writers, students, bloggers, and professionals quickly analyze text for word count, character count, sentences, and paragraphs — all instantly in the browser.
+## Getting Started
 
-# Features
+First, run the development server:
 
-1.Count words and characters (with and without spaces)
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-2. Count sentences and paragraphs
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-3. Copy results to clipboard with one click
+You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-4. Clear text easily
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-5. Mobile-friendly and fast
+## Learn More
 
-No backend required — fully frontend
+To learn more about Next.js, take a look at the following resources:
 
-# Why This Tool Is Useful
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-1. Students & writers: Quickly check essay or assignment length
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-2. Bloggers & content creators: Ensure proper word count for SEO or content guidelines
+## Deploy on Vercel
 
-3. Professionals: Check reports, emails, or resumes for word/character limits
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-4. Social media users: Ensure captions or posts fit limits
-
-# Tech Stack
-
-- Next.js
-- TailWindCss
-
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
